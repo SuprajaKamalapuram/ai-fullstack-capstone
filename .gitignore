@@ -1,0 +1,15 @@
+node_modules/
+
+.env
+
+.vscode/
+
+dist/
+
+build/
+
+*.log
+
+__pycache__/
+
+.DS_Store
