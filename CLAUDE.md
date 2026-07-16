@@ -37,3 +37,13 @@ refactor:
 style:
 
 test:
+
+
+
+AI Assistant Guidelines
+
+- Prefer modular code
+
+- Explain complex logic
+
+- Suggest best practices
